@@ -1,6 +1,6 @@
 {
-  "author": "Russ Wheeler",
   "name": "fcc-learn-npm-package-json",
+  "author": "Russ Wheeler",
   "dependencies": {
     "express": "^4.14.0"
   },
